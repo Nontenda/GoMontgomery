@@ -1,0 +1,10 @@
+{
+  "name": "gomontgomery",
+  "title": "GoMontgomery",
+  "id": "jid1-Ddf8ig8DZojhgg",
+  "description": "a basic add-on",
+  "author": "Nontenda",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {"private-browsing": true}
+}
